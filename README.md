@@ -1,5 +1,7 @@
 🎵 Audiorora — MERN Music Streaming Web App
 Audiorora is a full-featured music streaming web application built using the MERN stack. Users can explore trending songs, search for artists, listen to music, and enjoy a clean and responsive user experience.
+<br>
+
 🚀 Features
 ✅ Browse and play top charts
 ✅ Explore artists, genres, and charts
@@ -8,7 +10,7 @@ Audiorora is a full-featured music streaming web application built using the MER
 ✅ Persistent music state with Redux
 ✅ Animated UI with Tailwind CSS
 ✅ Backend music track & playlist management (MERN)
-
+<br>
 🖥️ Frontend:
 React.js
 
