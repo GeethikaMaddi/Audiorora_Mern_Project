@@ -1,12 +1,24 @@
-# React + Vite
+🎵 Audiorora — MERN Music Streaming Web App
+Audiorora is a full-featured music streaming web application built using the MERN stack. Users can explore trending songs, search for artists, listen to music, and enjoy a clean and responsive user experience.
+🚀 Features
+✅ Browse and play top charts
+✅ Explore artists, genres, and charts
+✅ Audio player with play/pause, skip, and loop
+✅ Mobile responsive sidebar and player
+✅ Persistent music state with Redux
+✅ Animated UI with Tailwind CSS
+✅ Backend music track & playlist management (MERN)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🖥️ Frontend:
+React.js
 
-Currently, two official plugins are available:
+Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Router DOM
 
-## Expanding the ESLint configuration
+🌍 Backend:
+Node.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Express.js
+
+MongoDB
